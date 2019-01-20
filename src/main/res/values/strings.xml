@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Czujniki</string>
+    <string name="zeroString">0</string>
+    <string name="btnLabel">Start</string>
+
+    <string name="ax">ax </string>
+    <string name="ay">ay </string>
+    <string name="az">az </string>
+
+    <string name="steps">steps </string>
+
+</resources>
